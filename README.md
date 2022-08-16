@@ -275,7 +275,7 @@
 
 #### Machine Learning
 
-* [DeepLearning.scala](http://deeplearning.thoughtworks.school/) - Creating statically typed dynamic neural networks from object-oriented & functional programming constructs.
+* [DeepLearning.scala](https://www.thoughtworks.com/deeplearning-scala) - Creating statically typed dynamic neural networks from object-oriented & functional programming constructs.
 * [Conjecture](https://github.com/etsy/Conjecture) - Scalable Machine Learning in Scalding.
 * [brushfire](https://github.com/stripe/brushfire) - Distributed decision tree ensemble learning in Scala.
 * [ganitha](https://github.com/tresata/ganitha) - Scalding powered machine learning.
